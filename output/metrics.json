@@ -1,0 +1,18 @@
+{
+  "root": {
+    "mean": 3.6934000000000005,
+    "mse": 0.17739543999999993
+  },
+  "left_split": {
+    "mean": 4.526,
+    "mse": 0.0
+  },
+  "right_split": {
+    "mean": 3.48525,
+    "mse": 0.005112187499999999
+  },
+  "feature_importances": {
+    "HouseAge": 0.0,
+    "Population": 1.0
+  }
+}
